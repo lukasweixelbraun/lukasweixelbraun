@@ -1,31 +1,38 @@
 # Hey, guys!
 
-My name is Lukas Weixelbraun and I'm a software developer. I'm from Austria and currently working at Waldviertler Werkstädten GmbH. 
+I’m Lukas Weixelbraun
 
-## 🔧 Technologies & Tools
+Senior Fullstack Software Developer from Austria with 5+ years of experience building, operating, and evolving business-critical enterprise software.
+Strong focus on ERP-centric systems, web applications, clean API design, and containerized infrastructure.
+Used to taking long-term technical ownership and acting as the bridge between business and IT.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-bage&logo=linux&logoColor=white&color=2bbc8a)
+## 🔧 Tech Stack
+
+### OS & Shell
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+### Backend
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C_%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CoffeeScript-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ActiveJ-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-REST_API-informational?style=flat&color=2bbc8a)
+
+### Frontend
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+
+### Databases
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+
+### DevOps & Infrastructure
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/lukasweixelbraun/lukasweixelbraun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasweixelbraun&show_icons=true&line_height=42&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" style="width: 50%;" />
-</a>
-
-<a href="https://github.com/lukasweixelbraun/lukasweixelbraun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasweixelbraun&langs_count=4&card_width=405&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+![](https://img.shields.io/badge/Tools-GitLab_CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
