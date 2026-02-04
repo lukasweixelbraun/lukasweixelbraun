@@ -2,9 +2,7 @@
 
 I’m Lukas Weixelbraun
 
-Senior Fullstack Software Developer from Austria with 5+ years of experience building, operating, and evolving business-critical enterprise software.
-Strong focus on ERP-centric systems, web applications, clean API design, and containerized infrastructure.
-Used to taking long-term technical ownership and acting as the bridge between business and IT.
+Senior Fullstack Software Developer from Austria with 5+ years of experience designing, building, operating, and continuously evolving business-critical enterprise software. Strong focus on Java-based ERP desktop clients and backend services, modern web applications with Angular, robust data management using PostgreSQL, clean and scalable API design, and containerized infrastructure with Docker. Comfortable taking long-term technical ownership, driving architectural decisions, and acting as a reliable bridge between business stakeholders and IT.
 
 ## 🔧 Tech Stack
 
